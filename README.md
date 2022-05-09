@@ -1,2 +1,2 @@
 # Netflix Clone!
-#01 #mjclone Netflix clone developed in reactjs and data taken from themoviedb.org API!
+#01 #mjclone Clone Netflix desenvolvido em reactjs e dados retirados da API themoviedb.org!
